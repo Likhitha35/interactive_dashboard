@@ -43,10 +43,10 @@ To create an interactive dashboard using Power BI that provides business stakeho
 
 🔗 Submission This repository contains:
 
-├── Sample Superstore.xlsx # Dataset
-├── sample superstore.pbix # Power BI Dashboard file
-├── Task4_Dashboard_Summary.pptx # Summary presentation (with screenshot placeholders)
-└── README.md # Project documentation
+Sample Superstore.csv # Dataset
+sample superstore.pbix # Power BI Dashboard file
+Task4_Dashboard_Summary.pptx # Summary presentation (with screenshot placeholders)
+README.md # Project documentation
 
 
 
