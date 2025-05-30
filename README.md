@@ -10,7 +10,7 @@ To create an interactive dashboard using Power BI that provides business stakeho
 
 ## 📊 Dataset Used
 - **Name:** Sample Superstore
-- **Format:** Excel (.csv)
+- **Format:** Excel (.xlsx)
 - **Source:** Kaggle
 - **Fields Included:** Order ID, Order Date, Ship Date, Category, Sub-Category, Sales, Profit, Quantity, Discount, Region, State, Segment, etc.
 
@@ -43,10 +43,10 @@ To create an interactive dashboard using Power BI that provides business stakeho
 
 🔗 Submission This repository contains:
 
-Sample Superstore.csv # Dataset
-sample superstore.pbix # Power BI Dashboard file
-Task4_Dashboard_Summary.pptx # Summary presentation (with screenshot placeholders)
-README.md # Project documentation
+- Sample Superstore.xlsx # Dataset
+- sample superstore.pbix # Power BI Dashboard file
+- Task4_Dashboard_Summary.pptx # Summary presentation (with screenshot placeholders)
+- README.md # Project documentation
 
 
 
